@@ -11,8 +11,10 @@ Logo/badge for the C++ programming language.
 I publish this C++ Logo for public domain, so everyone can use, modify and redistribute it without any restrictions.
 
 ### History
-I've acquired this logo from [isocpp/logos](https://github.com/isocpp/logos) when it was licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license (between [`90ab5cc`](https://github.com/isocpp/logos/commit/90ab5cc54e10635adf8aa62dd7f6094df20995e6) and [`a036ea6`](https://github.com/isocpp/logos/commit/a036ea65afa8b5f5ba7733f90d9aed8266eca6c1)).<br>
+I've acquired this logo from [isocpp/logos](https://github.com/isocpp/logos)<sup>1</sup> when it was licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license (between [`90ab5cc`](https://github.com/isocpp/logos/commit/90ab5cc54e10635adf8aa62dd7f6094df20995e6) and [`a036ea6`](https://github.com/isocpp/logos/commit/a036ea65afa8b5f5ba7733f90d9aed8266eca6c1)).<br>
 On 18.04.2017, [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license has been revoked by [`a036ea6`](https://github.com/isocpp/logos/commit/a036ea65afa8b5f5ba7733f90d9aed8266eca6c1) and outrageously restrictive ISO C++ TOS has been applied.
+
+1. From [jwkratz/cpp_logo](https://github.com/jwkratz/cpp_logo) to be exact, which has been later moved to [isocpp/logos](https://github.com/isocpp/logos).
 
 ### Solution
 However, license change is not retroactive, so the fact I've downloaded this logo before license change means I am not bound with TOS.
