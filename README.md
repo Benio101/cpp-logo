@@ -8,7 +8,7 @@ Logo/badge for the C++ programming language.
 
 ## Manifest
 ### Freedom
-I publish this C++ Logo for public domain, so everyone can use, modify and redistribute this logo without any restrictions.
+I publish this C++ Logo for public domain, so everyone can use, modify and redistribute it without any restrictions.
 
 ### History
 I've acquired this logo from [isocpp/logos](https://github.com/isocpp/logos) when it was licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license (between [`90ab5cc`](https://github.com/isocpp/logos/commit/90ab5cc54e10635adf8aa62dd7f6094df20995e6) and [`a036ea6`](https://github.com/isocpp/logos/commit/a036ea65afa8b5f5ba7733f90d9aed8266eca6c1)).<br>
